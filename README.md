@@ -1,3 +1,6 @@
+# Direct Link to run the app
+https://todolist-three-eosin.vercel.app/
+
 # Getting Started 
 
 Clone the project and install dependencies
